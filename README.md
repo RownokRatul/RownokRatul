@@ -4,7 +4,6 @@ I'm currently an undergraduate student at **Bangladesh University of Engineering
 
 <br />
 
-
 - ✍ Check out my [Academic Repositories](https://www.example.com)
 - ⚡ Fun fact: Vision to write and read fictions. 
 
