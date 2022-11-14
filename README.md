@@ -16,4 +16,4 @@ I'm currently an undergraduate student at **Bangladesh University of Engineering
 <br />
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RownokRatul)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RownokRatul)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RownokRatul)
