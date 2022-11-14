@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm MD Rownok Zahan Ratul.
 I'm currently an undergraduate student at **Bangladesh University of Engineering and Technology (BUET)** studying **Computer Science and Engineering (CSE)**. 
 
-- ✍ Check out my [Academic Repositories]([https://www.example.com](https://github.com/RownokRatul/Undergradutae_academics))
+- ✍ Check out my [Academic Repositories]([https://github.com/RownokRatul/Undergradutae_academics])
 - ⚡ Fun fact: Vision to write and read fictions. 
 
 ## Connect With Me:
