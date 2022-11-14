@@ -1,10 +1,9 @@
 ### Hi there 👋, it's MD Rownok Zahan Ratul,
-#### enjoying and learning the world as time passes by.
-I'm currently and undergrad at Bangladesh University of Engineering and Technology (BUET) studying Computer Science and Engineering. 
+#### Enjoying and learning the world as time passes by.
+I'm currently an undergraduate student at **Bangladesh University of Engineering and Technology (BUET)** studying **Computer Science and Engineering (CSE)**. 
 
 - ✍ Check out my [Academic Repositories](https://www.example.com)
 - ⚡ Fun fact: Vision to write and read fictions. 
-
 
 ### Connect With Me
 
