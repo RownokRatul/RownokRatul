@@ -1,11 +1,19 @@
-### Hi there 👋, it's MD Rownok Zahan Ratul.
+### Hi There, it's MD Rownok Zahan Ratul
 
-<!--
-**RownokRatul/RownokRatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Currently an undergraduate student, studying ##Computer Science and Engineering at ##Bangladesh University of Engineering and Technology (BUET)
+- ✍ Check out my Academic Repositories [here][link]
+- ⚡ Fun fact: I love to write and read fictions.
 
-Here are some ideas to get you started:
--->
+### Connect With Me
 
-- 🎓 Currently an undergraduate student, studying # Computer Science and Engineering at # Bangladesh University of Engineering and Technology (BUET)  ...
-- ✍ Check out my Academic Repositories here  ...
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+<br />
+
+### Languages: 
+
+
 
