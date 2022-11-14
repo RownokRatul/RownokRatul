@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm MD Rownok Zahan Ratul.
-#### --Enjoying and learning the world as time passes by.
 I'm currently an undergraduate student at **Bangladesh University of Engineering and Technology (BUET)** studying **Computer Science and Engineering (CSE)**. 
 
 <br />
