@@ -12,8 +12,6 @@ I'm currently an undergraduate student at **Bangladesh University of Engineering
 
 <br />
 
-
-
 ## Github Overview:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RownokRatul&show_icons=true)  
