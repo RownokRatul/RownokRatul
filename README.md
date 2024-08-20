@@ -5,12 +5,6 @@ I'm a recent graduate from **Bangladesh University of Engineering and Technology
 - ✍ Check out my [Academic Repositories](https://github.com/RownokRatul/Undergradutae_academics)
 - ⚡ Fun fact: Vision to write and read fictions.
 
-<img src='https://img.icons8.com/ios-filled/50/000000/github.png' alt='github' height='40'>
-<img src='https://img.icons8.com/ios-filled/50/000000/linkedin.png' alt='linkedin' height='40'>
-<img src='https://img.icons8.com/ios-filled/50/000000/facebook-new.png' alt='facebook' height='40'>
-<img src='https://img.icons8.com/ios-filled/50/000000/instagram-new.png' alt='instagram' height='40'>
-<img src='https://img.icons8.com/ios-filled/50/000000/youtube-play.png' alt='YouTube' height='40'>
-
 ## Connect With Me:
 [<img src='https://img.icons8.com/ios-filled/50/000000/github.png' alt='github' height='40'>](https://github.com/RownokRatul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rownok-ratul-156186220/?original_referer=/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rownok.ratul15/) 
