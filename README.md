@@ -11,5 +11,3 @@ I'm a recent graduate from **Bangladesh University of Engineering and Technology
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/cloud_number9__//)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCZxJAtO239RBJFCrDmXNKcw)  
 
-## Github Overview:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RownokRatul)
