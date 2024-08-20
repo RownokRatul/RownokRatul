@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm MD Rownok Zahan Ratul.
-I'm currently an undergraduate student at **Bangladesh University of Engineering and Technology (BUET)** studying **Computer Science and Engineering (CSE)**. 
 
-I'm a recent graduate from **Bangladesh University of Engineering and Technology (BUET)** in **Computer Science and Engineering (CSE)**. Currently, my research interest is focused on Computational Biology and Applied Machine Learning.
+I'm a recent graduate from **Bangladesh University of Engineering and Technology (BUET)** in **Computer Science and Engineering (CSE)**. Currently, my research interest is focused on **Computational Biology** and **Applied Machine Learning**.
 - ✍ Check out my [Academic Repositories](https://github.com/RownokRatul/Undergradutae_academics)
 - ⚡ Fun fact: Vision to write and read fictions.
 
