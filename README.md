@@ -11,8 +11,4 @@ I'm currently an undergraduate student at **Bangladesh University of Engineering
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCZxJAtO239RBJFCrDmXNKcw)  
 
 ## Github Overview:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RownokRatul&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RownokRatul)
-<br />
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RownokRatul)
