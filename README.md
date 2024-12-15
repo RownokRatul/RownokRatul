@@ -1,4 +1,4 @@
-### Hi there 👋, I'm MD Rownok Zahan Ratul.
+### Hi there 👋, I'm Md. Rownok Zahan Ratul.
 
 I'm a recent graduate from **Bangladesh University of Engineering and Technology (BUET)** in **Computer Science and Engineering (CSE)**. Currently, my research interest is focused on **Computational Biology** and **Applied Machine Learning**.
 - ✍ Check out my [Academic Repositories](https://github.com/RownokRatul/Undergradutae_academics)
